@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f3de1631-6a3c-478a-8757-894fd6807e9a" name="Changes" comment="First commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../../../Program Files/maven/apache-maven-3.8.6" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2VnEmXfKqAFaETHc8RwfEUbxaeG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/shiru/OneDrive/Desktop/Praxis-Projekt/Admin-Dashboard-Server&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;ea0a24aa0c2e006e973baab404999eb1&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\shiru\OneDrive\Desktop\Praxis-Projekt\Admin-Dashboard-Server\Admin-Dashboard-Server" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Ates.AdminDashboard" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.AdminDashboardApplication">
+    <configuration name="Angular Application (admin-dashboard-Client)" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration name="AdminDashboardApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Admin-Dashboard" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="Ates.AdminDashboard.AdminDashboardApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Angular CLI Server (admin-dashboard-Client)" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/admin-dashboard-Client/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f3de1631-6a3c-478a-8757-894fd6807e9a" name="Changes" comment="" />
+      <created>1695463605127</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695463605127</updated>
+      <workItem from="1695463605812" duration="512000" />
+      <workItem from="1695464129048" duration="1275000" />
+      <workItem from="1695465415083" duration="5834000" />
+      <workItem from="1695471267927" duration="1811000" />
+      <workItem from="1695531341822" duration="169000" />
+      <workItem from="1695531521828" duration="12331000" />
+      <workItem from="1695618789791" duration="634000" />
+      <workItem from="1695620761457" duration="8902000" />
+      <workItem from="1695705018698" duration="666000" />
+      <workItem from="1695705697586" duration="2271000" />
+      <workItem from="1695795412909" duration="159000" />
+      <workItem from="1695795596796" duration="1224000" />
+      <workItem from="1695882807910" duration="59000" />
+      <workItem from="1695882875984" duration="1686000" />
+      <workItem from="1696888749552" duration="27000" />
+      <workItem from="1696946334657" duration="476000" />
+      <workItem from="1696946822904" duration="361000" />
+      <workItem from="1697077683613" duration="2480000" />
+      <workItem from="1697164515928" duration="101000" />
+      <workItem from="1697250541112" duration="40000" />
+      <workItem from="1697250592104" duration="819000" />
+      <workItem from="1697267767390" duration="1815000" />
+      <workItem from="1697315252155" duration="36000" />
+      <workItem from="1697345260264" duration="55000" />
+      <workItem from="1697372921039" duration="115000" />
+      <workItem from="1697373051495" duration="2373000" />
+      <workItem from="1697605336280" duration="68000" />
+      <workItem from="1697605425617" duration="629000" />
+      <workItem from="1697738924827" duration="6000" />
+      <workItem from="1697785508071" duration="1987000" />
+      <workItem from="1698286009134" duration="4645000" />
+      <workItem from="1698374395089" duration="2174000" />
+      <workItem from="1698751043407" duration="603000" />
+      <workItem from="1698768659498" duration="55000" />
+      <workItem from="1698768743675" duration="648000" />
+      <workItem from="1698823278965" duration="597000" />
+      <workItem from="1698824505624" duration="683000" />
+      <workItem from="1698843552790" duration="610000" />
+      <workItem from="1698852555476" duration="630000" />
+      <workItem from="1699102001355" duration="1034000" />
+      <workItem from="1700724144125" duration="638000" />
+      <workItem from="1700811825807" duration="84000" />
+      <workItem from="1700811919283" duration="1288000" />
+      <workItem from="1701689595420" duration="1633000" />
+      <workItem from="1701692822044" duration="72000" />
+      <workItem from="1701692904192" duration="78000" />
+      <workItem from="1701692992734" duration="162000" />
+      <workItem from="1701693286501" duration="117000" />
+    </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <option name="closed" value="true" />
+      <created>1701692380898</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701692380898</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="org.springframework.data.mapping.PropertyReferenceException" package="org.springframework.data.mapping" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
